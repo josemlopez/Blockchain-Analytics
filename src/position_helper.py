@@ -3,6 +3,7 @@ This is a simple helpper application for trailing stop strategy when entering in
 trading position.
 The idea is to trail the stop position to meet a maximun radio from the current price.
 It will print "EXIT EXIT" if the max pain lost is reached.
+
 """
 
 import asyncio
