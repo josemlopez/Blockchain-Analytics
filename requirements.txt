@@ -5,3 +5,11 @@ scipy==1.8.0
 python-binance==1.0.16
 numpy==1.22.3
 pytz
+praw
+emoji
+nltk
+spacy==3.2.4
+squarify==0.4.3
+investpy==1.0.8
+mplfinance==0.12.8b9
+yfinance==0.1.70
