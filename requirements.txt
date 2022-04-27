@@ -13,3 +13,5 @@ squarify==0.4.3
 investpy==1.0.8
 mplfinance==0.12.8b9
 yfinance==0.1.70
+google-cloud-bigquery==3.0.1
+scikit-learn==1.0.2
